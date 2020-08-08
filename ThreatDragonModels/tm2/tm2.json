@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "tm2",
+    "owner": "vrushal",
+    "description": "vrushal"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "vrushal"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "dgm1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "vrushal"
+  }
+}
